@@ -1,4 +1,4 @@
-Project Title: AgriSwarmRL – Drone Vision & Reinforcement Learning for Precision Farming (Webots + Sentinel Playground)
+Project Title: AgriDroeRL – Drone Vision & Reinforcement Learning for Precision Farming (Webots + Sentinel Playground)
 
 ---
 
@@ -8,7 +8,7 @@ MAIN CONCEPTS TO COVER:
 * NDVI or VARI (if RGB-only) visualized as heatmaps to guide drone coverage
 * Optional refinement with lightweight deep models (U-Net / DeepLabV3+)
 * Reinforcement Learning (PPO) for drone navigation & prioritized area coverage (Stable-Baselines3)
-* Multi-agent coordination for swarm logic (multi-drone in Webots)
+* Multi-agent coordination for swarm logic (multi-drone in Webots) (For SwarmVision Extension)
 * Obstacle and inter-drone collision avoidance (Webots supervisor/collision APIs)
 * MP4 demo generation & GitHub presentation
 
@@ -86,7 +86,8 @@ First, build locally and test; when stable, push to GitHub.
 ---
 
 GOAL:
-Simulate a drone swarm in Webots that uses NDVI/VARI-based semantic segmentation (Sentinel Playground) to classify and prioritize land regions, and reinforcement learning (PPO) to navigate while avoiding collisions and maximizing coverage.
+Simulate a drone in Webots that uses NDVI/VARI-based semantic segmentation (Sentinel Playground) to classify and prioritize land regions, and reinforcement learning (PPO) to navigate while avoiding collisions and maximizing coverage.
+
 Final deliverable: working Webots simulation, GitHub repo, and MP4 demo.
 
 ---

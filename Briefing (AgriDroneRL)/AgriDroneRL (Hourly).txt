@@ -1,4 +1,4 @@
-AgriSwarmRL – Hour-by-Hour Execution Plan (Satellite NDVI + PPO, Webots + Sentinel)
+AgriDroneRL – Hour-by-Hour Execution Plan (Satellite NDVI + PPO, Webots + Sentinel)
 
 PROJECT CORE: NDVI-based semantic segmentation for aerial land classification using **Sentinel Playground satellite images** + PPO RL-based drone navigation with swarm coordination in Webots.
 
