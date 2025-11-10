@@ -1,0 +1,28 @@
+# requirements.txt for AgriDroneRL
+# -------------------------------
+# Author: Ayushman Mishra (aymisxx on GitHub)
+# This file lists all dependencies needed to run AgriDroneRL.
+
+# Core scientific libraries
+numpy
+matplotlib
+opencv-python
+
+# Reinforcement Learning (PPO agent)
+stable-baselines3
+gymnasium
+torch
+
+# Utilities
+tqdm
+moviepy
+
+# Development (optional)
+jupyterlab
+
+# Webots Python API (install separately via Webots installer, not pip)
+# webots==R2023b
+
+# Optional: semantic segmentation models (for advanced experiments)
+# segmentation-models-pytorch
+# tensorflow
