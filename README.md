@@ -3,11 +3,7 @@
 ### NDVI-Based Drone Navigation using Reinforcement Learning  
 **(PPO vs DQN vs A2C: A Comparative Study)**
 
-**Authors:**
-
-- **Ayushman Mishra**: https://github.com/aymisxx  
-- **Sanskar S. Patil**: https://github.com/sanskar-sunil-patil  
-- **Kshitij Gupta**: https://github.com/kgupt0310  
+**Authors: Ayushman Mishra**: https://github.com/aymisxx
 
 ---
 
