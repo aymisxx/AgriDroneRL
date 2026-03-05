@@ -105,7 +105,7 @@ PPO consistently achieves the highest episode returns and coverage ratios, indic
 
 ## Citation
 
-> Mishra, A., Patil, S. S., Gupta, K., *AgriDroneRL: NDVI-Based Drone Navigation using Reinforcement Learning*, github.com/aymisxx/AgriDroneRL
+> Mishra, A., *AgriDroneRL: NDVI-Based Drone Navigation using Reinforcement Learning*, github.com/aymisxx/AgriDroneRL
 
 ---
 
