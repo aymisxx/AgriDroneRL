@@ -118,9 +118,9 @@ PPO consistently achieves the highest episode returns and coverage ratios, indic
 
 ## Citation
 
-> Mishra, A., *AgriDroneRL: NDVI-Based Drone Navigation using Reinforcement Learning*, github.com/aymisxx/AgriDroneRL
+> Ayushman Mishra, *AgriDroneRL: NDVI-Based Drone Navigation using Reinforcement Learning*, github.com/aymisxx/AgriDroneRL
 
-> Mishra, A., *MicroUAV-2D: Lightweight 2D Down-Camera UAV Simulation Environment for Rapid Autonomy Prototyping*, github.com/aymisxx/MicroUAV-2D
+> Ayushman Mishra, *MicroUAV-2D: Lightweight 2D Down-Camera UAV Simulation Environment for Rapid Autonomy Prototyping*, github.com/aymisxx/MicroUAV-2D
 
 ---
 
