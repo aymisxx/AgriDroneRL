@@ -105,7 +105,8 @@ AgriDroneRL
 ## Results & Analysis
 
 ![PPO Trajectory](results/ppo_trajectory.gif)
-#### **Trajecotry of the Best Performing Algorithm (PPO)**
+![PPO Trajectory](results/ppo_trajectory_comp.gif)
+#### **Trajecotries of the Best Performing Algorithm (PPO)**
 
 PPO consistently achieves the highest episode returns and coverage ratios, indicating strong exploration efficiency under sparse, first-visit rewards. DQN exhibits unstable trajectories and higher revisit rates, while A2C shows moderate performance but lower sample efficiency. Overall, PPO demonstrates superior stability and vegetation-aware navigation.
 
